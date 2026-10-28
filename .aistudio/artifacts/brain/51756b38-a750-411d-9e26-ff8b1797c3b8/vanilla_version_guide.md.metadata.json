@@ -1,0 +1,5 @@
+{
+  "summary":  "Complete conversion of the \"HUMAN OR AI?\" website from React and Vite to plain HTML, CSS, and vanilla JavaScript. Located in the separate vanilla-version/ folder and packaged into vanilla-version.zip. Works completely offline via direct double-click on index.html using the file:// protocol without npm, terminal, or build tools.",
+  "updatedAt":  "2026-10-25T08:30:17.189580554Z",
+  "userFacing":  true
+}
